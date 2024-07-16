@@ -1,0 +1,10 @@
+.header {
+    background-color: white;
+    text-align: justify;
+}
+
+.header img{
+    width: 100%;
+    height: 290px;
+    padding-bottom: 8px;
+}

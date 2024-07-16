@@ -1,0 +1,19 @@
+.info h4 {
+    align-items: center;
+    text-align: center;
+    line-height: 16px;
+    font-size: 18px;
+}
+
+.info h5{
+    align-content: center;
+    text-align: center;  
+    line-height: 16px;
+}
+
+.info h6 {
+    align-items: center;
+    text-align: center;
+    line-height: 16px;
+    font-size: 16px;
+}
